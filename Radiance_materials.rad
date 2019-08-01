@@ -1,0 +1,10 @@
+void plastic GenericFloor_20
+0
+0
+5 0.2 0.2 0.2 0 0
+
+void plastic GenericCeiling_70
+0
+0
+5 0.7 0.7 0.7 0 0
+

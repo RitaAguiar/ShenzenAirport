@@ -1,0 +1,21 @@
+!gensky 12 21 12.00 -c -a 42.300 -o 71.100 -m 75.000 -B 100
+
+skyfunc glow sky_mat
+0
+0
+4 1 1 1 0
+
+sky_mat source sky
+0
+0
+4 0 0 1 180
+
+skyfunc glow ground_glow
+0
+0
+4 1 1 1  0
+
+ground_glow source ground
+0
+0
+4 0 0 -1 180
